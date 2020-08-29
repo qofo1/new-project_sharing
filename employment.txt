@@ -1,3 +1,4 @@
 <p>    newly recruit employee </p>
 
-<p> Mr John address </p>
+<p> Mr John address book</p>
+<p> Mr charles now has updated the employee contract.
